@@ -1,0 +1,1 @@
+struct dir cd(char *arg,struct dir curr,int check_len,char *check);
